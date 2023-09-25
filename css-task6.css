@@ -1,0 +1,34 @@
+#name{
+    height: 25px;
+    width: 245px;
+    border: 1px solid black;
+    border-width: 2px;
+    border-radius: 6%;
+}
+
+#login{
+    height: 30px;
+    width: 252px;
+    background-color: forestgreen;
+    font-size: large;
+    font-weight: bold;
+    border: 1px solid black;
+    border-width: 2px;
+    border-radius: 6%;
+}
+#cancel{
+    height: 30px;
+    width: 100px;
+    background-color: red;
+    font-size: large;
+    font-weight: bold;
+    margin-left: -20px;
+}
+#remember{
+    margin-top: 10px;
+    margin-left: -133px;
+}
+#forgotPWD{
+    display: inline-block;
+    margin-left: 20px;
+}

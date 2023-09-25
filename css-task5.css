@@ -1,0 +1,29 @@
+.half-colored-box {
+    background: linear-gradient(to right, grey 70%, black 30%);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background: linear-gradient(to right, black 70%, grey 30%);
+    color: white;
+  }

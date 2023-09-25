@@ -1,0 +1,12 @@
+.table tr td{
+    background-color: cadetblue;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.rect{
+    height: 50px;
+    width: 100px;
+    background-color: #555;
+  }

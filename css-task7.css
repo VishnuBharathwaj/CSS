@@ -1,0 +1,18 @@
+div {
+    margin-bottom: 10px;
+  }
+  label {
+    display: inline-block;
+    width: 150px;
+  }
+.form1{
+    margin-top: 20px;
+    width: 50%;
+    background-color: brown;
+}
+button
+{
+    height: 35px;
+    width: 195px;
+    background-color: green;
+}
